@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Hello World hotfix version");
 		System.out.println("Hello World hotfix XXXXXXX");
+		System.out.println("Hello World master AAAAAAA");
 		System.out.println("Hello World hotfix YYYYYYY");
 
 	}
